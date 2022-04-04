@@ -1,0 +1,20 @@
+{
+  "course_title":"Quantum Physics II",
+  "course_description":"Together, this course and [_8.06 Quantum Physics III_](https://ocwnext.odl.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/) cover quantum physics with applications drawn from modern physics. Topics covered in this course include the general formalism of quantum mechanics, harmonic oscillator, quantum mechanics in three-dimensions, angular momentum, spin, and addition of angular momentum.",
+  "site_uid":"ded1ecf7-3f25-49f8-94d6-a1bc3ac77d6a",
+  "legacy_uid":"4cc828ff-9c6e-246a-a4a0-8f7c12251ced","instructors": [{
+    "first_name":"Barton",
+    "last_name":"Zwiebach",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Barton Zwiebach"}],"department_numbers":["8"],
+  "learning_resource_types":["Lecture Videos","Lecture Notes","Problem Sets","Exams"],
+  "topics":[["Science","Physics","Quantum Mechanics"]],
+  "primary_course_number":"8.05",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2013",
+  "level":["Undergraduate"],
+  "image_src":"/courses/8-05-quantum-physics-ii-fall-2013/25694246e28ccb008139c6ab57556c6a_8-05f13.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Basic elements of the Stern–Gerlach experiment. (Image via wikimedia commons.)","draft":false,"file":"https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-05-quantum-physics-ii-fall-2013/25694246e28ccb008139c6ab57556c6a_8-05f13.jpg","file_type":"image/jpeg","image_metadata":{"caption":"Basic elements of the Stern–Gerlach experiment. (Image via [wikimedia commons](http://en.wikipedia.org/wiki/File:Stern-Gerlach_experiment.PNG).)","credit":"Image via wikimedia commons.","image-alt":"Stern–Gerlach experiment device including furnace, silver atoms, etc."},"iscjklanguage":false,"learning_resource_types":[],"ocw_type":"OCWImage","resourcetype":"Image","title":"8-05f13.jpg","uid":"25694246-e28c-cb00-8139-c6ab57556c6a"}}
+
